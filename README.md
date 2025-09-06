@@ -3,17 +3,19 @@ This will be your portfolio repository. Use this as a [template repository](http
 
 # About Me
 
-i made an edit here just to get a check off point
+I'd prefer this repo not to be public, but otherwise the 6.104 staff (you, most likely) wouldn't be able to access it.
 
-*My name is Amber Horvath, I'm a postdoctoral associate researching code comprehension interventions, it's nice to meet you! [Here is a link to my real website.](https://amberhorvath.com)
-Now you should write something about yourself here!*
+
+My name is Artem, I'm a senior at MIT. Check out my personal incredibly sophisticated, feature-rich [website](https://artemsaraiev.com) that I vibecoded in 5 minutes, then spent another half hour configuring DNS records to redirect `github.io` to my domain.
 
 Some fun facts about me:
-1. I love hockey.
-2. I do pottery.
-3. I have an extra bone in my right foot.
+1. I competed in acrobatics for a decade before getting injured and "retiring"
+2. I was in a week-long coma after eating a watermelon with all the seeds inside
+3. I believe parallel universes exist and there is a chance that an identical copy of you, somewhere about ~$10^{10^{100}}$ meters away, reading this exact README file
 
-![picture of snow leopard mama and baby](https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096)
+Zion National Park is pretty scenic:
+<!-- ![picture of snow leopard mama and baby](https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096) -->
+![utah-trip-photo](mountain_photo.JPG)
 
 
 # Table of Contents
