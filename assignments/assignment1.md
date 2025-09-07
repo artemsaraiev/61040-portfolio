@@ -4,16 +4,16 @@
 
 Ten domains I am interested in:
 
-1. research
-2. AI
-3. finance & investing
-4. traveling
-5. board games & poker
-6. health and longevity
-7. books
-8. politics
-9. sports
-10. photography
+1. research – collaboration and dissemination
+2. AI – alignment
+3. finance & investing – personal finance & quantitative strategies
+4. traveling – planning, itineraries & shared tips
+5. board games & poker – sharing interesting board games, exploring strategies, playing online
+6. health and longevity – lifestyle optimization & tracking
+7. books – discovery, notes & discussion
+8. politics – policy news & information quality
+9. sports – watching, rec play & analysis
+10. photography – capture, editing & sharing
 
 A few sentences explaining my interest in the three above:
 - Research – finding better ways to collaborate and communicate with other researchers. Making research more liquid by lowering barriers to contributing, discussing, and accessing work, so that sharing happens more freely and ideas circulate more widely.
@@ -38,7 +38,7 @@ A few sentences explaining my interest in the three above:
 
 1. Hard to keep track of what I've read, what I want to read, and my reviews/notes on books I've finished.
 2. Difficult to judge reviews/ratings from anonymous people across many different platforms (Google, Kindle, Goodreads).
-3. No good way to join discussions around the same book, since many platforms exist and there is no widely preferred one.
+3. No common way to join discussions around the same book, since many platforms exist and there is no widely preferred one.
 
 ### Selected problems
 
@@ -57,17 +57,33 @@ Ratings for the same book can vary a lot across different platforms. This is som
 
 ### Unselected problems
 
+#### **High friction in peer reviewing.**
+
+This is a widespread problem in my opinion. However, I think, it has a smaller need than a platform for discussion, so I had to put it in here.
+
 #### **Lack of awareness of others' work in the same domain.**
 
 This is an essential part of research that has become much easier to do in recent years with the help of AI (e.g. GPT research/browse mode, Perplexity, etc) and higher engagement from the research community on the internet. It is not usually time-consuming, and researchers typically follow new papers and ideas in their field on a constant basis anyway.
+
+_____
+
+#### **Monopolies that sell private data.**
+
+The privacy policy got better over time after users feedback. A small fraction of people still have concerns to the extent they refuse to use the app.
 
 #### **Inability to apply financial instruments to make better predictions.**
 
 That is largely a user skill issue, which can be solved by learning from the numerous sources available on the Internet. A problem "it is hard to do well in X because I have never done X before" is not really a problem, but more of natural expectation. X in this case is "investment".
 
+____
 #### **Hard to keep track of what I've read, what I want to read, and my reviews/notes on books I've finished.**
 
 Not as widespread or pressing a problem as the other two.
+
+#### **No common way to join discussions around the same book, since many platforms exist and there is no widely preferred one.**
+
+The number of platforms is relatively small and people usually overcome this friction by reading reviews from a few (two-three) sources like Goodreads, LibraryThing, Amazon.
+
 
 ## Stakeholders. 
 
@@ -98,15 +114,15 @@ Not as widespread or pressing a problem as the other two.
 
 My main evidence is my personal experience and my researcher friends' experiences. However, this problem is acknowledged, which can be seen by many discussions on reddit and forums about common ways to engage in paper discussions. More sources are below:
 
-- [Academia StackExchange: Is there a good site for holding online discussions of scientific papers?](https://academia.stackexchange.com/questions/2385/is-there-a-good-site-for-holding-online-discussions-of-scientific-papers) — Multiple users note there is no centralized, widely adopted platform.
-- [r/academia thread: Is there a forum where people can discuss academic papers?](https://www.reddit.com/r/academia/comments/1czi7dt/is_there_a_forum_where_people_can_discuss/) — Discussions mostly happen in small labs or fragmented spaces.
-- [r/academia comment (example)](https://www.reddit.com/r/academia/comments/1czi7dt/comment/l5gnlik/) — Lab-level discussions are ad hoc and rarely accessible to outsiders.
-- [alphaXiv announcement (Stanford AI Lab)](https://x.com/StanfordAILab/status/1818669016325800216) — Interest in tools that help summarize and share arXiv papers.
-- [PubPeer](https://pubpeer.com/) — Post-publication peer review exists, but adoption is niche.
-- [ResearchGate Q&A](https://www.researchgate.net/questions) — Paper discussions exist, but engagement quality is often criticized.
-- [X/Twitter search: arXiv paper discussion](https://x.com/search?q=arxiv%20paper%20discussion&src=typed_query) — Popular, hype-driven threads; decent reach, poor depth.
-- [Nature editorial: The future of peer review](https://communities.springernature.com/posts/the-future-of-peer-review) — Recognizes gaps in post-publication discourse.
-- [LSE Impact blog: Why we need to talk about academic peer review](https://blogs.lse.ac.uk/impactofsocialsciences/2016/02/17/breaking-the-traditional-mould-of-peer-review/) — Existing tools do not incentivize serious engagement.
+- [Academia StackExchange: Is there a good site for holding online discussions of scientific papers?](https://academia.stackexchange.com/questions/2385/is-there-a-good-site-for-holding-online-discussions-of-scientific-papers) — multiple users note there is no centralized, widely adopted platform.
+- [r/academia thread: Is there a forum where people can discuss academic papers?](https://www.reddit.com/r/academia/comments/1czi7dt/is_there_a_forum_where_people_can_discuss/) — discussions mostly happen in small labs or fragmented spaces.
+- [r/academia comment (example)](https://www.reddit.com/r/academia/comments/1czi7dt/comment/l5gnlik/) — lab-level discussions are ad hoc and rarely accessible to outsiders.
+- [alphaXiv announcement (Stanford AI Lab)](https://x.com/StanfordAILab/status/1818669016325800216) — interest in tools that help summarize and share arXiv papers.
+- [PubPeer](https://pubpeer.com/) — post-publication peer review exists, but adoption is niche.
+- [ResearchGate Q&A](https://www.researchgate.net/questions) — paper discussions exist, but engagement quality is often criticized.
+- [X/Twitter search: arXiv paper discussion](https://x.com/search?q=arxiv%20paper%20discussion&src=typed_query) — popular, hype-driven threads; decent reach, poor depth.
+- [Nature editorial: The future of peer review](https://communities.springernature.com/posts/the-future-of-peer-review) — recognizes gaps in post-publication discourse.
+- [LSE Impact blog: Why we need to talk about academic peer review](https://blogs.lse.ac.uk/impactofsocialsciences/2016/02/17/breaking-the-traditional-mould-of-peer-review/) — existing tools do not incentivize serious engagement.
 
 ---
 
@@ -114,30 +130,30 @@ My main evidence is my personal experience and my researcher friends' experience
 
 Sources confirming high entry threshold and difficulties that come along are listed below:
 
-- [Stack Overflow: Yahoo Finance API is discontinued](https://stackoverflow.com/questions/38355075/has-yahoo-finance-web-service-disappeared-api-changed-down-temporarily) — Illustrates fragility of free data sources.
-- [Nasdaq Data Link (Quandl)](https://data.nasdaq.com/) — High-quality datasets are paywalled.
+- [Stack Overflow: Yahoo Finance API is discontinued](https://stackoverflow.com/questions/38355075/has-yahoo-finance-web-service-disappeared-api-changed-down-temporarily) — illustrates fragility of free data sources.
+- [Nasdaq Data Link (Quandl)](https://data.nasdaq.com/) — high-quality datasets are paywalled.
 - [Hyperliquid Data](https://hyperliquid.gitbook.io/hyperliquid-docs/historical-data) – on crypto exchanges, data is usually cheaper and more accessible. However, it still might be costly for an average user.
-- [Polygon.io pricing](https://polygon.io/pricing) — Tiered API access; comprehensive data is costly.
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) — Industry level standard tool at an estimated ~$20,000/year, excluding most individuals.
-- [Kaggle datasets](https://www.kaggle.com/datasets) — Free, but often incomplete, outdated, or not real-time.
-- [r/algotrading](https://www.reddit.com/r/algotrading/) — Frequent complaints about access, fragmentation, and cost for small traders.
-- [Investopedia: Market data feed](https://www.investopedia.com/terms/m/market-data-feed.asp) — Explains how exchanges monetize data feeds.
-- [SEC statement on market data (2019)](https://www.sec.gov/newsroom/speeches-statements/clayton-redfearn-equity-market-structure-2019) — Remarks from Jay Clayton & Brett Redfearn touching market data/access issues.
-- [QuantStart: Beginner's Guide to Quantitative Trading](https://www.quantstart.com/articles/Beginners-Guide-to-Quantitative-Trading/) — Overview that includes the practical need to obtain reliable data for backtesting.
-- [X/Twitter search: trading API fragmentation](https://x.com/search?q=trading%20api%20fragmented&src=typed_query) — Developer threads complaining about fragmented exchange APIs.
+- [Polygon.io pricing](https://polygon.io/pricing) — tiered API access; comprehensive data is costly.
+- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) — industry level standard tool at an estimated ~$20,000/year, excluding most individuals.
+- [Kaggle datasets](https://www.kaggle.com/datasets) — free, but often incomplete, outdated, or not real-time.
+- [r/algotrading](https://www.reddit.com/r/algotrading/) — frequent complaints about access, fragmentation, and cost for small traders.
+- [Investopedia: Market data feed](https://www.investopedia.com/terms/m/market-data-feed.asp) — explains how exchanges monetize data feeds.
+- [SEC statement on market data (2019)](https://www.sec.gov/newsroom/speeches-statements/clayton-redfearn-equity-market-structure-2019) — remarks from Jay Clayton and Brett Redfearn touching market data/access issues.
+- [QuantStart: Beginner's Guide to Quantitative Trading](https://www.quantstart.com/articles/Beginners-Guide-to-Quantitative-Trading/) — overview that includes the practical need to obtain reliable data for backtesting.
+- [X/Twitter search: trading API fragmentation](https://x.com/search?q=trading%20api%20fragmented&src=typed_query) — developer threads complaining about fragmented exchange APIs.
 
 ---
 
 ### 3. Books — Difficult to judge reviews/ratings from anonymous people across many platforms
 
-- [Reddit: Goodreads has a reviews/ratings problem](https://www.reddit.com/r/books/comments/yvepgi/i_finally_realized_that_goodreads_ratings_are/) — Critiques unreliable ratings.
-- [BBC: Amazon fake reviews](https://www.bbc.com/news/business-47941181) — Shows prevalence of fake or astroturfed reviews.
-- [Google Books](https://josephcarrabis.com/2021/09/30/book-reviews-goodreads-and-amazon/) — Reviews are sparse and inconsistent versus Amazon/Goodreads.
-- [r/books](https://www.reddit.com/r/books/) — Ongoing user debates about the reliability of Goodreads ratings.
-- [Wikipedia: Goodreads](https://en.wikipedia.org/wiki/Goodreads) — Background and criticisms of the platform for moderation.
-- [LibraryThing](https://www.librarything.com/) — Niche alternative; demonstrates comparables without mass adoption. Allows to check for a reviewer history of read books. Lost its popularity to Goodreads and smilar.
-- [Wikipedia: Fake reviews](https://en.wikipedia.org/wiki/Fake_reviews) — Overview of fake-review dynamics undermining trust.
-- [Stack Exchange: Literature](https://literature.stackexchange.com/) — Exists but not widely used by general readers for discovery.
+- [Reddit: Goodreads has a reviews/ratings problem](https://www.reddit.com/r/books/comments/yvepgi/i_finally_realized_that_goodreads_ratings_are/) — critiques unreliable ratings.
+- [BBC: Amazon fake reviews](https://www.bbc.com/news/business-47941181) — shows prevalence of fake or astroturfed reviews.
+- [Google Books](https://josephcarrabis.com/2021/09/30/book-reviews-goodreads-and-amazon/) — reviews are sparse and inconsistent versus Amazon/Goodreads.
+- [r/books](https://www.reddit.com/r/books/) — ongoing user debates about the reliability of Goodreads ratings.
+- [Wikipedia: Goodreads](https://en.wikipedia.org/wiki/Goodreads) — background and criticisms of the platform for moderation.
+- [LibraryThing](https://www.librarything.com/) — niche alternative; demonstrates comparables without mass adoption. Allows to check for a reviewer history of read books. Lost its popularity to Goodreads and smilar.
+- [Wikipedia: Fake reviews](https://en.wikipedia.org/wiki/Fake_reviews) — overview of fake-review dynamics undermining trust.
+- [Stack Exchange: Literature](https://literature.stackexchange.com/) — exists but not widely used by general readers for discovery.
 
 ## Features. 
 
