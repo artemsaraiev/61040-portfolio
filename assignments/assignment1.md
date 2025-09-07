@@ -137,7 +137,7 @@ Sources confirming high entry threshold and difficulties that come along are lis
 - [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) — industry level standard tool at an estimated ~$20,000/year, excluding most individuals.
 - [Kaggle datasets](https://www.kaggle.com/datasets) — free, but often incomplete, outdated, or not real-time.
 - [r/algotrading](https://www.reddit.com/r/algotrading/) — frequent complaints about access, fragmentation, and cost for small traders.
-- [Investopedia: Market data feed](https://www.investopedia.com/terms/m/market-data-feed.asp) — explains how exchanges monetize data feeds.
+- [Investopedia: Market data feed](https://www.investopedia.com/articles/investing/050515/how-nyse-makes-money.asp) — explains how exchanges monetize data feeds.
 - [SEC statement on market data (2019)](https://www.sec.gov/newsroom/speeches-statements/clayton-redfearn-equity-market-structure-2019) — remarks from Jay Clayton and Brett Redfearn touching market data/access issues.
 - [QuantStart: Beginner's Guide to Quantitative Trading](https://www.quantstart.com/articles/Beginners-Guide-to-Quantitative-Trading/) — overview that includes the practical need to obtain reliable data for backtesting.
 - [X/Twitter search: trading API fragmentation](https://x.com/search?q=trading%20api%20fragmented&src=typed_query) — developer threads complaining about fragmented exchange APIs.
